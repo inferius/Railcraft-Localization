@@ -33,7 +33,7 @@ death.railcraft.bore.5=%s se ocitl mezi mlýnskými kameny...
 death.railcraft.bore.6=%s byl na špatném místě ve špatný čas.
 
 death.railcraft.crusher.1=%s zakopl(a) vedle těžkého stroje.
-death.railcraft.crusher.2=%s není muž z oceli, rozmáčklo ho to jako každýho jiného.
+death.railcraft.crusher.2=%s není muž z oceli, rozmáčklo ho to jako kohokoli jiného.
 death.railcraft.crusher.3=%s zíral do propasti, pak uklouzl.
 death.railcraft.crusher.4=%s si bude muset zajít vyměnit všechny své věci.
 death.railcraft.crusher.5=%s ignoroval nápis "Dívej se kam šlapeš".
@@ -42,9 +42,9 @@ death.railcraft.crusher.7=%s se proměnil na pastu.
 death.railcraft.crusher.8=%s si měl přečíst manuál.
 
 death.railcraft.steam.1=%s byl uvařen, chutně a štavnatě.
-death.railcraft.steam.2=%s není imunní vůči vysokým teplotám, a to navzdory tvrzení o opaku.
+death.railcraft.steam.2=%s není imunní vůči vysokým teplotám, a to navzdory tvrzení opaku.
 death.railcraft.steam.3=%s zjistil, jak bolestivá pára může být.
-death.railcraft.steam.4=%s měl průmyslovou nehodu.
+death.railcraft.steam.4=%s měl pracovní úraz.
 death.railcraft.steam.5=%s tam asi neměl vstupovat.
 death.railcraft.steam.6=%s zjistil, že parní koupel je lepší absolvovat v lázních.
 
@@ -55,7 +55,7 @@ death.railcraft.track.electric.4=%s zakopl o třetí kolejnici.
 death.railcraft.track.electric.5=%s učinil šokující odhalení.
 death.railcraft.track.electric.6=%s se dozvěděl něco o elektřině, KOPE!
 
-death.railcraft.train.1=%s byl zachyce vlakem.
+death.railcraft.train.1=%s byl zachycen vlakem.
 death.railcraft.train.2=%s si hrál na trati.
 death.railcraft.train.3=%s hrál si na honěnou s vlakem. Vlak vyhrál.
 death.railcraft.train.4=%s chytil špatný vlak.
